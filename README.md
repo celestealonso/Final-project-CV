@@ -1,1 +1,1 @@
-# Final-project-CV
+This repository contains the three main scripts for my parking lot availability identification project. The script setup.py allows the user to create a BEV of a video and manually set up the parking slots for analyzing. The script main.py uses Yolov8 to identify availability and creates a occupancy map. The script alternative.py uses a trained ViT to identify availability and creates an occupancy map. The script setup.py only has to be run once to use the other ones.
